@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloApplication<edu.fra.uas-hello>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.fra.uas.hello.HelloApplication",
+            "projectName": "edu.fra.uas-hello",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
